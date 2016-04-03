@@ -1,0 +1,12 @@
+parent pid = 60935
+first child pid = 60935
+parent pid = 60935
+first child pid = 60936
+parent pid = 60935
+first child pid = 60935
+second child pid = 60937
+second child, parent pid = 1766
+parent pid = 60935
+first child pid = 60936
+second child pid = 60938
+second child, parent pid = 1766
