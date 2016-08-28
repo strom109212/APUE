@@ -11,7 +11,7 @@
 
 char *fullpath = NULL;
 unsigned int pathlen = 0;
-void static err_print(const char* str);
+static void err_print(const char* str);
 static int procpath();
 
 int main(int argc,char* argv[])
