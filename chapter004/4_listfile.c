@@ -91,7 +91,7 @@ static int procpath()
     
 }
 
-void static err_print(const char* str)
+static void  err_print(const char* str)
 {
     printf("ERROR: %s,file:%s,line:%d",str,__FILE__, __LINE__);
 }
